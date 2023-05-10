@@ -13,7 +13,7 @@ https://pubmed.ncbi.nlm.nih.gov/36868432/
 Estudo das "10 Usability Heuristics for User Interface Design"
 
 #1: Visibility of system status The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
-[image](https://github.com/Hugohs98/bertoti/assets/111614142/71a01671-134a-4a5b-b331-a71adcb21ff9)
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/71a01671-134a-4a5b-b331-a71adcb21ff9)
 
 #2: Match between system and the real world The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 ![Screenshot_2023-05-10-09-22-59-145_com uapp](https://github.com/Hugohs98/bertoti/assets/111614142/4e2cfca0-17f9-40e3-919d-dd0e9956ea7b)
