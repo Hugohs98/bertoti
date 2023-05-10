@@ -19,6 +19,9 @@ Estudo das "10 Usability Heuristics for User Interface Design"
 ![Screenshot_2023-05-10-09-22-59-145_com uapp](https://github.com/Hugohs98/bertoti/assets/111614142/4e2cfca0-17f9-40e3-919d-dd0e9956ea7b)
 
 #3: User control and freedom Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/be16b29e-758d-43c8-8973-d4087e3e7ba3)
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/fda8723f-2a79-46c3-9a21-3c03b3ffbfda)
+
 
 
 #4: Consistency and standards Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
