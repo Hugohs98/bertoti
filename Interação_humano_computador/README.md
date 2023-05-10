@@ -28,11 +28,15 @@ Estudo das "10 Usability Heuristics for User Interface Design"
 #5: Error prevention Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
 #6: Recognition rather than recall Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.
-
 #7: Flexibility and efficiency of use Shortcuts — hidden from novice users — may speed up the interaction for the expert user so that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/ef276c08-928b-4e24-ad53-e5e227744fae)
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/6142d974-f57f-43b1-ad49-72b4ab819826)
+
 
 #8: Aesthetic and minimalist design Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
 
 #9: Help users recognize, diagnose, and recover from errors Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
 #10: Help and documentation It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/ce319eed-f260-4347-b50f-2633e28ae5f1)
+
