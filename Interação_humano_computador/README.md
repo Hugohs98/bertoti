@@ -34,6 +34,8 @@ Estudo das "10 Usability Heuristics for User Interface Design"
 
 
 #8: Aesthetic and minimalist design Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
+![image](https://github.com/Hugohs98/bertoti/assets/111614142/ec044ab8-f981-43ee-9326-00784aa8cc79)
+
 
 #9: Help users recognize, diagnose, and recover from errors Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
