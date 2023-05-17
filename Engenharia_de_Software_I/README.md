@@ -23,7 +23,9 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 
 Aula 4- 24/03/23
 
-Classe UML + Código
+Classe UML
+
+![Diagrama em branco - Classe UML](https://github.com/Hugohs98/bertoti/assets/111614142/73fc6fa6-3b35-455c-bbf6-b16293170bcf)
 
 Código:
 
