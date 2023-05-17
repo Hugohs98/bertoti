@@ -13,11 +13,11 @@ Engenharia de Software pode ser definida como um conjunto de ações necessária
 
 Aula 3-24/02/23
 
-1-O que é Engenharia de Software?
-2-O que são requisitos?
-2.1- O que são requisitos funcionais?
-2.2-O que são requisitos não funcionais?
-Dê exemplos.
+1-O que é Engenharia de Software? <br/>
+2-O que são requisitos? <br/>
+2.1- O que são requisitos funcionais? <br/>
+2.2-O que são requisitos não funcionais? <br/>
+Dê exemplos. <br/>
 
 DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 
