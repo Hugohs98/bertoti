@@ -14,12 +14,19 @@ Engenharia de Software pode ser definida como um conjunto de ações necessária
 Aula 3-24/02/23
 
 1-O que é Engenharia de Software? <br/>
+Engenharia de Software é uma disciplina que se dedica ao desenvolvimento sistemático e eficiente de software, abrangendo atividades como análise, projeto, implementação, teste e manutenção de sistemas de software. <br/>
 2-O que são requisitos? <br/>
+Requisitos são especificações e descrições das funcionalidades, características e restrições de um sistema de software que devem ser atendidas para satisfazer as necessidades dos usuários e das partes interessadas envolvidas no projeto. <br/>
 2.1- O que são requisitos funcionais? <br/>
+Requisitos funcionais são aqueles que descrevem as funcionalidades e o comportamento do sistema, ou seja, o que o sistema deve fazer. Eles definem as ações que o sistema deve executar em resposta a determinadas entradas e condições. Exemplo: "O sistema de uma loja online deve permitir que os usuários adicionem produtos ao carrinho de compras e realizem o pagamento." <br/>
 2.2-O que são requisitos não funcionais? <br/>
-Dê exemplos. <br/>
+Requisitos não funcionais são aqueles que descrevem as características e restrições do sistema, além de seu comportamento. Eles abrangem atributos de qualidade como desempenho, segurança, usabilidade, confiabilidade, entre outros. Exemplo: "O sistema de uma instituição financeira deve ter uma resposta de tempo inferior a 2 segundos para todas as transações financeiras" ou "O sistema deve ser compatível com os navegadores Chrome, Firefox e Safari". <br/>
 
-DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
+DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais. <br/>
+
+1- Desempenho versus Custos: Um exemplo de trade-off entre requisitos não funcionais é o equilíbrio entre o desempenho do sistema e os custos de desenvolvimento e manutenção. Investir em recursos de hardware mais avançados, como servidores mais poderosos, pode melhorar significativamente o desempenho do sistema, mas isso também implica em custos mais altos. Portanto, deve-se considerar cuidadosamente o custo-benefício de investir em melhorias de desempenho em relação ao orçamento disponível.
+
+2- Usabilidade versus Segurança: Outro exemplo de trade-off ocorre entre a usabilidade e a segurança do sistema. Aumentar a segurança geralmente envolve a implementação de medidas adicionais, como autenticação de vários fatores e requisitos de senha complexos. No entanto, essas medidas podem tornar o sistema mais complexo e difícil de usar para os usuários finais. Portanto, é necessário encontrar um equilíbrio entre fornecer uma experiência de usuário intuitiva e garantir um nível adequado de segurança para proteger os dados e informações do sistema.
 
 Aula 4- 24/03/23
 
