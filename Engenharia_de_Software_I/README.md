@@ -25,7 +25,7 @@ Aula 4- 24/03/23
 
 Classe UML
 
-![Diagrama em branco - Classe UML](https://github.com/Hugohs98/bertoti/assets/111614142/73fc6fa6-3b35-455c-bbf6-b16293170bcf)
+![Diagrama em branco - Classe UML (1)](https://github.com/Hugohs98/bertoti/assets/111614142/16cb7a80-b39e-498c-b01d-806ca19d5069)
 
 Código:
 
