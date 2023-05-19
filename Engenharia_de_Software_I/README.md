@@ -50,6 +50,30 @@ public class Curso {
         this.nome = nome;
         lista = new ArrayList<Disciplina>();
     }
+ 
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setLista(List<Disciplina> lista) {
+        this.lista = lista;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public List<Disciplina> getLista() {
+        return lista;
+    }
     
     public void adicionaDisciplina(Disciplina disciplina) {
         lista.add(disciplina);
@@ -101,6 +125,30 @@ public class Curso {
     public Disciplina (String nome, int codigo, int cargaHoraria) {
         this.nome = nome;
         this.codigo = codigo;
+        this.cargaHoraria = cargaHoraria;
+    }
+ 
+    public String getNome() {
+        return nome;
+    }
+
+    public int getCodigo() {
+        return codigo;
+    }
+
+    public int getCargaHoraria() {
+        return cargaHoraria;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setCodigo(int codigo) {
+        this.codigo = codigo;
+    }
+
+    public void setCargaHoraria(int cargaHoraria) {
         this.cargaHoraria = cargaHoraria;
     }
     
