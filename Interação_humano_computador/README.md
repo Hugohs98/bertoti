@@ -10,6 +10,8 @@ Utilizar a interação humano-computador para melhorar a interação humano-huma
 https://www.sciencedirect.com/science/article/pii/S2667325821002235
 https://pubmed.ncbi.nlm.nih.gov/36868432/
 
+Artigo: "Uso de Chat Bots na Intervenção Terapêutica: Ampliando o Acesso e Promovendo a Saúde Mental": https://drive.google.com/file/d/1ODfuRWxEYlhmQkpaO7r6uqL43tC91B15/view?usp=sharing
+
 Estudo das "10 Usability Heuristics for User Interface Design"
 
 #1: Visibility of system status The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
